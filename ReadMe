@@ -1,0 +1,24 @@
+This code is developed and provided in a series of steps and is provided with out any warranty.
+
+The idea is simple to prive automation to the downloading and checking of ISo'series
+these Iso's are provided for testing by Arcolinux.
+
+Process 
+This came about by setting up a pXe-boot server to try and speed up personal testing.
+
+Various syncing forms where tried but where thrown out due to the deep directory structure they produce
+Netboott.xyz will be used to serve up the ISO over the network.
+
+Netbootxyz needs all the ISO's in one folder, directory to chose from.
+That gdirectory is hosted on a server, with the PEX-BOOT Testing machine reciving the ISO over Eth.
+
+
+
+Login Script GDrive.
+    Handled via browser
+Import from GDrive 
+Download & Verify
+Build Gui
+
+This code is no more than AI generated code a list of functions
+IT will take a lot off weork to actualy run
